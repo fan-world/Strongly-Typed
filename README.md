@@ -1,5 +1,8 @@
 # Strongly Typed — Универсальный HTML5 Шаблон
 
+[![Live Demo](https://shields.io)](https://fan-world.github.io/Strongly-Typed/)
+> **Посмотреть проект вживую:** [fan-world.github.io/Strongly-Typed/](https://fan-world.github.io/Strongly-Typed/)
+
 **Strongly Typed** — это чистый, адаптивный и типографически ориентированный шаблон для создания современных веб-сайтов. Он идеально подходит для блогов, портфолио или корпоративных страниц, где контент стоит на первом месте.
 
 ## 🚀 Особенности
